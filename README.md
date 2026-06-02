@@ -102,7 +102,7 @@
 
 ---
 
-### ▸ herramientas
+### ▸ tools
 
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
@@ -113,7 +113,7 @@
 
 ---
 
-### ▸ contacto
+### ▸ contact
 
 [![Gmail](https://img.shields.io/badge/appl3.eddie%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:appl3.eddie@gmail.com)
 
