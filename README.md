@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github.com/sweeddie/sweeddie/raw/main/banner.png"
-       alt="banner" width="70%" />
+       alt="banner" width="80%" />
 </div>
 <br/>
 
