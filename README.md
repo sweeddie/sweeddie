@@ -1,166 +1,119 @@
-<!-- ╔══════════════════════════════════════════╗ -->
-<!-- ║  INSTRUCCIONES RÁPIDAS:                  ║ -->
-<!-- ║  1. Cambia TU_USUARIO por tu usuario     ║ -->
-<!-- ║  2. Cambia el gmail por el tuyo          ║ -->
-<!-- ║  3. Sube tus imágenes al repo            ║ -->
-<!-- ╚══════════════════════════════════════════╝ -->
+<!-- ══════════════════════════════════════════════════ -->
+<!--   eddie · github profile · black & white          -->
+<!-- ══════════════════════════════════════════════════ -->
 
-<!-- BANNER PRINCIPAL — sube banner.png a tu repo -->
+<!-- BANNER — sube la imagen del gato como banner.png al repo -->
 <div align="center">
-  <img src="https://github.com/TU_USUARIO/TU_USUARIO/raw/main/banner.png"
-       alt="eddie.dev banner" width="100%" />
-</div>
-
-<br/>
-
-<!-- PILLS DE PRESENTACIÓN -->
-<div align="center">
-
-![frontend](https://img.shields.io/badge/frontend%20developer-f0d9ff?style=flat-square&color=e8c8fa)
-![México](https://img.shields.io/badge/México-fde8ff?style=flat-square&color=f4d6ff)
-![open to collab](https://img.shields.io/badge/open%20to%20collab-e6d0ff?style=flat-square&color=ead8ff)
-
+  <img src="https://github.com/sweeddie/sweeddie/raw/main/banner.png"
+       alt="banner" width="100%" />
 </div>
 
 <br/>
 
 ---
 
-<!-- FOTO + DESCRIPCIÓN -->
-<table>
-<tr>
-<td width="110" valign="top">
+<div align="center">
 
-<!-- FOTO DE PERFIL — sube foto.png a tu repo o usa tu avatar de GitHub -->
-<img src="https://github.com/TU_USUARIO.png" width="95" style="border-radius:14px;" alt="eddie"/>
+# eddie
+### Frontend Developer · México
 
-</td>
-<td valign="top" style="padding-left:10px;">
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sweeddie.sweeddie&style=flat-square&color=000000)
 
-Hola, soy **Eddie**. Estudio **Desarrollo de Software** y me especializo en **Frontend Development**.
-Me gusta construir interfaces que se sientan bien, no solo que se vean bien.
-Explorando el espacio entre diseño y código.
-
-> *"Transformando ideas en interfaces, una línea de código a la vez."*
-
-</td>
-</tr>
-</table>
-
-<br/>
+</div>
 
 ---
 
-### ✦ sobre mí
+### ▸ sobre mí
 
 ```json
 {
   "name"     : "Eddie",
   "role"     : "Frontend Developer",
   "studying" : "Desarrollo de Software",
-  "focus"    : [ "UI/UX", "Web", "Interfaces" ],
+  "focus"    : ["UI/UX", "Web", "Interfaces"],
   "location" : "México",
   "status"   : "open to collaborate"
 }
 ```
 
-<br/>
+> *"Transformando ideas en interfaces, una línea de código a la vez."*
 
 ---
 
-### ✦ stack
+### ▸ skills
 
-<table width="100%">
+<table>
 <tr>
-  <td width="50%">
+<td width="50%">
 
-**HTML5 / CSS3**
-![HTML5](https://img.shields.io/badge/-HTML5-f5d0e8?style=flat-square&logo=html5&logoColor=9060c0)
-![CSS3](https://img.shields.io/badge/-CSS3-d8d0f8?style=flat-square&logo=css3&logoColor=7050b0)
+**HTML5**
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5&logoColor=white)
 
-`████████████████████░░░` advanced
+`████████████████████░░░` avanzado
 
-  </td>
-  <td width="50%">
+</td>
+<td width="50%">
 
-**Python**
-![Python](https://img.shields.io/badge/-Python-d0e4f8?style=flat-square&logo=python&logoColor=5070b0)
+**CSS3**
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3&logoColor=white)
 
-`████████████░░░░░░░░░░░` intermediate
+`████████████████████░░░` avanzado
 
-  </td>
+</td>
 </tr>
 <tr>
-  <td>
+<td>
 
-**Android Studio**
-![Android](https://img.shields.io/badge/-Android-d8f0e8?style=flat-square&logo=android&logoColor=3a7a60)
+**Python**
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=white)
 
-`█████████████████░░░░░░` proficient
+`████████████░░░░░░░░░░░` intermedio
 
-  </td>
-  <td>
+</td>
+<td>
 
-**Arduino**
-![Arduino](https://img.shields.io/badge/-Arduino-d0f0ee?style=flat-square&logo=arduino&logoColor=006070)
+**C++**
+![C++](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=cplusplus&logoColor=white)
 
-`████████████████░░░░░░░` intermediate
+`█████████░░░░░░░░░░░░░░` intermedio
 
-  </td>
+</td>
 </tr>
 </table>
 
-<br/>
+---
+
+### ▸ herramientas
+
+![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000000?style=flat-square&logo=visual-studio&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-000000?style=flat-square&logo=android&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat-square&logo=arduino&logoColor=white)
 
 ---
 
-### ✦ tools & tech
+### ▸ github stats
 
-![VS Code](https://img.shields.io/badge/-VS%20Code-e0d8f8?style=flat-square&logo=visual-studio-code&logoColor=7060c0)
-![Git](https://img.shields.io/badge/-Git-f8d8e8?style=flat-square&logo=git&logoColor=b04060)
-![GitHub](https://img.shields.io/badge/-GitHub-ede0f8?style=flat-square&logo=github&logoColor=6040a0)
-![Figma](https://img.shields.io/badge/-Figma-fce0f0?style=flat-square&logo=figma&logoColor=c04080)
-![JavaScript](https://img.shields.io/badge/-JavaScript-fdf0d0?style=flat-square&logo=javascript&logoColor=907020)
-![Linux](https://img.shields.io/badge/-Linux-f0ece0?style=flat-square&logo=linux&logoColor=706040)
-
-<br/>
-
----
-
-### ✦ galería
-
-<!-- BANNER GALERÍA — sube images/banner-wide.png -->
 <div align="center">
-  <img src="https://github.com/TU_USUARIO/TU_USUARIO/raw/main/images/banner-wide.png"
-       width="100%" alt="galería" style="border-radius:14px;" />
+
+![Eddie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sweeddie&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sweeddie&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa)
+
 </div>
 
-<br/>
-
-<!-- GRID DE IMÁGENES — sube images/img1.png … img6.png -->
-<div align="center">
-  <img src="https://github.com/TU_USUARIO/TU_USUARIO/raw/main/images/img1.png" width="30%" alt="img1" />
-  <img src="https://github.com/TU_USUARIO/TU_USUARIO/raw/main/images/img2.png" width="30%" alt="img2" />
-  <img src="https://github.com/TU_USUARIO/TU_USUARIO/raw/main/images/img3.png" width="30%" alt="img3" />
-</div>
-<div align="center">
-  <img src="https://github.com/TU_USUARIO/TU_USUARIO/raw/main/images/img4.png" width="30%" alt="img4" />
-  <img src="https://github.com/TU_USUARIO/TU_USUARIO/raw/main/images/img5.png" width="30%" alt="img5" />
-  <img src="https://github.com/TU_USUARIO/TU_USUARIO/raw/main/images/img6.png" width="30%" alt="img6" />
-</div>
-
-<br/>
-
 ---
 
-### ✦ contacto
+### ▸ contacto
 
-[![Gmail](https://img.shields.io/badge/appl3.eddie@gmail.com-fce8f8?style=flat-square&logo=gmail&logoColor=b04080)](mailto:tu.email@gmail.com)
-
-<br/>
+[![Gmail](https://img.shields.io/badge/appl3.eddie%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:appl3.eddie@gmail.com)
 
 ---
 
 <div align="center">
-  <sub>✦ &nbsp; eddie · frontend dev · méxico &nbsp; ✦ &nbsp; hecho con amor y css &nbsp; ✦</sub>
+  <sub>◆ &nbsp; eddie · frontend dev · méxico &nbsp; ◆</sub>
 </div>
