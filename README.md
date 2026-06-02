@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github.com/sweeddie/sweeddie/raw/main/banner.png"
-       alt="banner" width="80%" />
+       alt="banner" width="70%" />
 </div>
 <br/>
 
@@ -58,7 +58,7 @@
 **HTML5**
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5&logoColor=white)
 
-████████████████████
+█████████████████
 
 </td>
 <td width="50%">
@@ -66,7 +66,7 @@
 **CSS3**
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3&logoColor=white)
 
-████████████████████
+█████████████████
 
 </td>
 </tr>
@@ -76,7 +76,7 @@
 **JavaScript**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
 
-███████████████
+██████████
 
 </td>
 <td>
@@ -84,7 +84,7 @@
 **Python**
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=white)
 
-████████████
+███████████
 
 </td>
 </tr>
@@ -105,10 +105,11 @@
 ### ▸ herramientas
 
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat-square&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000000?style=flat-square&logo=visual-studio&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-000000?style=flat-square&logo=android&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat-square&logo=arduino&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
+
 
 ---
 
