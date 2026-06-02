@@ -25,18 +25,30 @@
 
 ### ▸ sobre mí
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ```json
 {
   "name"     : "Eddie",
-  "role"     : "Frontend Developer",
+  "role"     : "Frontend & UI/UX Developer",
   "studying" : "Desarrollo de Software",
   "focus"    : ["UI/UX", "Web", "Interfaces"],
-  "location" : "México",
   "status"   : "open to collaborate"
 }
 ```
 
-> *"It's not a bug."*
+> *"details matter."*
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+<img src="https://github.com/sweeddie/sweeddie/raw/main/dino.gif" width="100%" alt="dino"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -49,7 +61,7 @@
 **HTML5**
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5&logoColor=white)
 
-█████████████
+████████████████████
 
 </td>
 <td width="50%">
@@ -57,7 +69,7 @@
 **CSS3**
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3&logoColor=white)
 
-███████████
+████████████████████
 
 </td>
 </tr>
@@ -67,7 +79,7 @@
 **Python**
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=white)
 
-██████████
+████████████
 
 </td>
 <td>
@@ -75,7 +87,7 @@
 **C++**
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=cplusplus&logoColor=white)
 
-█████
+████
 
 </td>
 </tr>
@@ -86,24 +98,11 @@
 ### ▸ herramientas
 
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat-square&logo=arduino&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000000?style=flat-square&logo=visual-studio&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-000000?style=flat-square&logo=android&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat-square&logo=arduino&logoColor=white)
 
 
----
-
-### ▸ github stats
-
-<div align="center">
-
-![Eddie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sweeddie&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sweeddie&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa)
-
-</div>
-
----
 
 ### ▸ contacto
 
@@ -112,5 +111,5 @@
 ---
 
 <div align="center">
-  <sub>◆ &nbsp; eddie · frontend dev · méxico &nbsp; ◆</sub>
+  <sub>◆ &nbsp; eddie · desing · bug &nbsp; ◆</sub>
 </div>
