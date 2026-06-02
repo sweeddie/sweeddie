@@ -36,7 +36,7 @@
 }
 ```
 
-> *"If it's ugly. it's a bug."*
+> *"If it's ugly. it's a bug 🦕."*
 
 </td>
 <td width="50%" align="center" valign="middle">
