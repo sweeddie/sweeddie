@@ -36,7 +36,7 @@
 }
 ```
 
-> *"Transformando ideas en interfaces, una línea de código a la vez."*
+> *"It's not a bug."*
 
 ---
 
@@ -49,7 +49,7 @@
 **HTML5**
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5&logoColor=white)
 
-`████████████████████░░░` avanzado
+█████████████
 
 </td>
 <td width="50%">
@@ -57,7 +57,7 @@
 **CSS3**
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3&logoColor=white)
 
-`████████████████████░░░` avanzado
+███████████
 
 </td>
 </tr>
@@ -67,7 +67,7 @@
 **Python**
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=white)
 
-`████████████░░░░░░░░░░░` intermedio
+██████████
 
 </td>
 <td>
@@ -75,7 +75,7 @@
 **C++**
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=cplusplus&logoColor=white)
 
-`█████████░░░░░░░░░░░░░░` intermedio
+█████
 
 </td>
 </tr>
@@ -86,13 +86,10 @@
 ### ▸ herramientas
 
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000000?style=flat-square&logo=visual-studio&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-000000?style=flat-square&logo=android&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat-square&logo=arduino&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000000?style=flat-square&logo=visual-studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-000000?style=flat-square&logo=android&logoColor=white)
+
 
 ---
 
