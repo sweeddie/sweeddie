@@ -12,7 +12,7 @@
 
 <div align="center">
 
-# hi, hi i'm eddie
+# eddie
 ### Frontend Developer
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sweeddie.sweeddie&style=flat-square&color=000000)
 
