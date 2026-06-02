@@ -1,10 +1,10 @@
 <!-- ══════════════════════════════════════════════════ -->
-<!--   eddie · github profile · black & white          -->
+<!--   eddie · github profile   -->
 <!-- ══════════════════════════════════════════════════ -->
-<!-- BANNER — sube la imagen del gato como banner.png al repo -->
+
 <div align="center">
   <img src="https://github.com/sweeddie/sweeddie/raw/main/banner.png"
-       alt="banner" width="100%" />
+       alt="banner" width="80%" />
 </div>
 <br/>
 
@@ -20,7 +20,7 @@
 
 ---
 
-### ▸ sobre mí
+### ▸ about me
 
 <table>
 <tr>
@@ -32,11 +32,11 @@
   "role"     : "Frontend & UI/UX Developer",
   "studying" : "Desarrollo de Software",
   "focus"    : ["UI/UX", "Web", "Interfaces"],
-  "status"   : "open to collaborate"
+  "status"   : "Open to collaborate"
 }
 ```
 
-> *"details matter."*
+> *"If it's ugly. it's a bug."*
 
 </td>
 <td width="50%" align="center" valign="middle">
@@ -119,5 +119,5 @@
 ---
 
 <div align="center">
-  <sub>◆ &nbsp; eddie · desing · bug &nbsp; ◆</sub>
+  <sub>◆ &nbsp; pixels · code · repeat &nbsp; ◆</sub>
 </div>
