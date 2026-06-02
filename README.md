@@ -1,13 +1,11 @@
 <!-- ══════════════════════════════════════════════════ -->
 <!--   eddie · github profile · black & white          -->
 <!-- ══════════════════════════════════════════════════ -->
-
 <!-- BANNER — sube la imagen del gato como banner.png al repo -->
 <div align="center">
   <img src="https://github.com/sweeddie/sweeddie/raw/main/banner.png"
        alt="banner" width="100%" />
 </div>
-
 <br/>
 
 ---
@@ -15,8 +13,7 @@
 <div align="center">
 
 # eddie
-### Frontend Developer · México
-
+### Frontend Developer
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sweeddie.sweeddie&style=flat-square&color=000000)
 
 </div>
@@ -76,12 +73,22 @@
 <tr>
 <td>
 
+**JavaScript**
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+
+███████████████
+
+</td>
+<td>
+
 **Python**
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=white)
 
 ████████████
 
 </td>
+</tr>
+<tr>
 <td>
 
 **C++**
@@ -101,8 +108,9 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000000?style=flat-square&logo=visual-studio&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-000000?style=flat-square&logo=android&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat-square&logo=arduino&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
 
-
+---
 
 ### ▸ contacto
 
