@@ -1,12 +1,15 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="SWEEDDIE - Frontend Developer">
+</p>
 
 # SWEEDDIE
 ### Frontend Developer · UI/UX Designer
 
 # Crafting digital experiences with purpose.
 
-Diseño y desarrollo interfaces digitales donde la estética, la funcionalidad y la experiencia de usuario trabajan en armonía.
+Turning ideas into meaningful digital experiences.
 
-[Email](mailto:tu-correo@ejemplo.com) · [GitHub](https://github.com/sweeddie)
+[Email](eddelith@gmail.com) · [GitHub](https://github.com/sweeddie)
 
 ---
 
