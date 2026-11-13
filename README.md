@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="SWEEDDIE - Frontend Developer">
+  <img src="banner.gif" width="100%" alt="SWEEDDIE - Frontend Developer">
 </p>
 
 # SWEEDDIE
