@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<h3>Interfaces que se ven bien y se sienten mejor.</h3>
+<h3>Innovación visual, experiencias intuitivas</h3>
 
 <sub>Frontend Developer · UI/UX · Estudiante de Desarrollo de Software</sub>
 
