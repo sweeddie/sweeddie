@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="eddie · frontend developer" width="100%" />
+  <img src="assets/banner.gif" alt="eddie · frontend developer" width="100%" />
 </div>
 
 <br/>
@@ -137,6 +137,29 @@ aprendiendo    TypeScript avanzado y animación con Motion
 explorando     design systems y accesibilidad
 abierta a      colaboraciones y proyectos de UI
 ```
+
+<br/>
+
+---
+
+<br/>
+
+### Estadísticas
+
+<div align="center">
+
+<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sweeddie&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_radius=8&include_all_commits=true" />
+<img height="165" alt="Top lenguajes" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweeddie&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9d1d9&border_radius=8&langs_count=6" />
+
+<br/>
+
+<img alt="Racha de contribuciones" src="https://streak-stats.demolab.com?user=sweeddie&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=8b949e&border=000000" />
+
+<br/>
+
+<img alt="Gráfica de contribuciones" src="https://github-readme-activity-graph.vercel.app/graph?username=sweeddie&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&radius=8" />
+
+</div>
 
 <br/>
 
