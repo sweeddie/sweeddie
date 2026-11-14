@@ -16,7 +16,7 @@ Turning ideas into meaningful digital experiences.
 ### ABOUT ME
 
 ```ts
-const eddie = {
+const eddelith = {
   role: "Frontend Developer & UI/UX",
   focus: [
     "Interface Design",
