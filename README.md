@@ -2,7 +2,7 @@
   <img src="banner.gif" width="100%" alt="SWEEDDIE - Frontend Developer">
 </p>
 
-# SWEEDDIE
+# EDDELITH
 ### Frontend Developer · UI/UX Designer
 
 # Crafting digital experiences with purpose.
